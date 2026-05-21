@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daoum101.github.io/Amine-c/sitemap.xml
